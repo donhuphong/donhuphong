@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Phong Do+;Welcome+to+my+GitHub!;Hang+Out With+People+Who+Are+Better+Than+You.">
+</p>
+
+---
 
 <!--
 **donhuphong/donhuphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
