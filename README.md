@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Phong Do+;Welcome+to+my+GitHub!;Hang+Out With+People+Who+Are+Better+Than+You.">
-</p>
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com) &nbsp;
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84123456789) &nbsp;
 
----
 
 <!--
 **donhuphong/donhuphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
